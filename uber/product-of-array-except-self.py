@@ -1,3 +1,16 @@
+"""
+Task: Product of Array Except Self
+
+Given an array of integers, return a new array such that each element at index i
+is the product of all the numbers in the original array except the one at i.
+
+The solution should:
+- Run in O(n) time
+- Not use division
+- Handle edge cases like zeros gracefully
+
+This problem is commonly asked in interviews at companies like Uber, Amazon, and Google.
+"""
 from typing import List
 
 def productExceptSelf(nums: List[int]) -> List[int]:
