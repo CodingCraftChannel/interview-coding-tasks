@@ -10,3 +10,15 @@ This repository contains coding interview problems from various top tech compani
 - [product-of-array-except-self.py](./uber/product-of-array-except-self.py)
 
 </details>
+
+---
+
+## 🎯 Goals
+- Provide clean Python implementations
+- Help viewers follow along with [CodingCraft YouTube videos](https://www.youtube.com/@CodingCraftChannel)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
