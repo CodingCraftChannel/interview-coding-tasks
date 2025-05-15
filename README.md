@@ -10,6 +10,12 @@ This repository contains coding interview problems from various top tech compani
 - [product-of-array-except-self.py](./uber/product-of-array-except-self.py)
 
 </details>
+<details>
+<summary><strong>Stripe</strong></summary>
+
+- [first-missing-positive.py](./stripe/first-missing-positive.py)
+
+</details>
 
 ---
 
