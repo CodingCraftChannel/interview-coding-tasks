@@ -16,13 +16,11 @@ def contains(arr: List[int], x: int) -> bool:
     while low <= high:
         # Compute midpoint using only + and - (no / or >>)
         mid = low
-        for _ in range(high - low):
-            if mid + 1 <= high:
-                mid += 1
-            if mid + 1 <= high:
-                mid += 1
-            else:
-                break
+        steps = high - low
+        count = 0
+        while count + count + 1 <= steps:
+            mid += 1
+            count += 1
 
         # Standard binary search logic
         if arr[mid] == x:
