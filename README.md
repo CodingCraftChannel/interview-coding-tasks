@@ -28,6 +28,8 @@ This repository contains coding interview problems from various top tech compani
 <details>
 <summary><strong>Monotonic Stack</strong></summary>
 
+- Daily Temperatures (LeetCode 739): [daily_temperatures.py](./monotonic-stack/daily_temperatures.py)
+
 </details>
 
 ---
