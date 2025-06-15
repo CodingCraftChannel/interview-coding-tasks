@@ -4,16 +4,29 @@ This repository contains coding interview problems from various top tech compani
 
 ## 📁 Structure
 
+### Companies:
 <details>
-<summary><strong>Uber</strong></summary>
+<summary><strong>Netflix</strong></summary>
 
-- [product-of-array-except-self.py](./uber/product-of-array-except-self.py)
+- [contains_in_sorted_array.py](./netflix/contains_in_sorted_array.py)
 
 </details>
 <details>
 <summary><strong>Stripe</strong></summary>
 
 - [first-missing-positive.py](./stripe/first-missing-positive.py)
+
+</details>
+<details>
+<summary><strong>Uber</strong></summary>
+
+- [product-of-array-except-self.py](./uber/product-of-array-except-self.py)
+
+</details>
+
+### Advanced Algorithm Tricks
+<details>
+<summary><strong>Monotonic Stack</strong></summary>
 
 </details>
 
