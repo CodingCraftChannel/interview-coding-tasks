@@ -14,6 +14,7 @@ Each solution includes:
 
 - [Daily Temperatures (Leetcode 739)](daily_temperatures.py)
 - [Stock Span Problem](stock_span.py)
+- [Next Smaller Element](next_small_element.py)
 - [Remove K Digits (Leetcode 402)](remove_k_digits.py)
 - [132 Pattern (Leetcode 456)](132_pattern.py)
 - [Building Skyline / Sunset View](building_skyline.py)
