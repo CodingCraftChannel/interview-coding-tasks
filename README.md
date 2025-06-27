@@ -30,6 +30,7 @@ This repository contains coding interview problems from various top tech compani
 
 - Daily Temperatures (LeetCode 739): [daily_temperatures.py](./monotonic-stack/daily_temperatures.py)
 - Stock Span Problem: [stock_span.py](./monotonic-stack/stock_span.py)
+- Next Smaller Element: [next_smaller_element.py](./monotonic-stack/next_smaller_element.py)
 
 </details>
 
