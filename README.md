@@ -32,6 +32,7 @@ This repository contains coding interview problems from various top tech compani
 - Stock Span Problem: [stock_span.py](./monotonic-stack/stock_span.py)
 - Next Smaller Element: [next_smaller_element.py](./monotonic-stack/next_smaller_element.py)
 - Remove K Digits: [remove_k_digits.py](./monotonic-stack/remove_k_digits.py)
+- 132 Pattern: [132_pattern.py](./monotonic-stack/132_pattern.py)
 
 </details>
 
