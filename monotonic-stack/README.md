@@ -17,7 +17,6 @@ Each solution includes:
 - [Next Smaller Element](next_smaller_element.py)
 - [Remove K Digits (Leetcode 402)](remove_k_digits.py)
 - [132 Pattern (Leetcode 456)](132_pattern.py)
-- [Building Skyline / Sunset View](building_skyline.py)
 
 ---
 
