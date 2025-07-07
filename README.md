@@ -6,6 +6,12 @@ This repository contains coding interview problems from various top tech compani
 
 ### Companies:
 <details>
+<summary><strong>FAANG / Big Tech</strong></summary>
+
+- Ocean View (LeetCode 1762 – asked by Amazon, Microsoft, Google): [ocean_view.py](./faang/ocean_view.py)
+
+</details>
+<details>
 <summary><strong>Netflix</strong></summary>
 
 - [contains_in_sorted_array.py](./netflix/contains_in_sorted_array.py)
