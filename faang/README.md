@@ -20,3 +20,21 @@ Amazon, Microsoft, Google
 👉 [View solution](./ocean_view.py)
 
 </details>
+<details>
+<summary><strong>two_sum.py</strong></summary>
+
+**Task:**  
+Given a list of integers and a target number K, return True if any two distinct numbers in the list add up to K. Otherwise, return False.
+
+**Constraints:**  
+- The same element cannot be used twice.
+- The list may contain both positive and negative numbers.
+- Aim for better than O(n²) time complexity.
+
+**Asked By:**  
+Google, Facebook, Amazon, etc.  
+(LeetCode 1: *Two Sum*)
+
+👉 [View solution](./two_sum.py)
+
+</details>
