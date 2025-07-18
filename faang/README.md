@@ -38,3 +38,20 @@ Google, Facebook, Amazon, etc.
 👉 [View solution](./two_sum.py)
 
 </details>
+<details>
+<summary><strong>decode_ways.py</strong></summary>
+
+**Task:**  
+Given an encoded message containing digits, determine the total number of ways to decode it using the following mapping: 'A' → "1", 'B' → "2", ..., 'Z' → "26".
+
+**Constraints:**  
+- The input string contains digits only.
+- '0' cannot stand alone; it must be part of "10" to "26" to be valid.
+
+**Asked By:**  
+Google, Facebook, Amazon, etc.  
+(LeetCode 91: *Decode Ways*)
+
+👉 [View solution](./decode_ways.py)
+
+</details>
