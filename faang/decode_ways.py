@@ -26,17 +26,15 @@ def numDecodings(s: str) -> int:
     if not s or s[0] == "0":
         return 0
 
-    two_steps = 1
-    one_step = 1
+    one_step, two_steps = 1, 1
     for i in range(1, len(s)):
         current = 0
         if s[i] != "0":
             current = one_step
-        two_digit = int(s[i - 1:i + 1])
-        if two_digit >= 10 and two_digit <= 26:
+        two_digits = int(s[i - 1:i + 1])
+        if two_digits >= 10 and two_digits <= 26:
             current += two_steps
-        two_steps = one_step
-        one_step = current
+        two_steps, one_step = one_step, current
 
     return one_step
 
